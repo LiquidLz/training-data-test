@@ -120,5 +120,5 @@
 {"prompt":"miracle ->\n\n###\n\n","completion":" 奇跡, きせき, kiseki\n"}
 {"prompt":"the creature ->\n\n###\n\n","completion":" \n"}
 //My changes
-{"prompt":"hola ->\n\n###\n\n","completion":" こんにちは, Konnichiwa\n"}
-{"prompt":"casa ->\n\n###\n\n","completion":"家, いえ, ie\n"}
+{"prompt":"Hello ->\n\n###\n\n","completion":" こんにちは, Konnichiwa\n"}
+{"prompt":"House ->\n\n###\n\n","completion":"家, いえ, ie\n"}
